@@ -1,2 +1,2 @@
 # pretty-typescript-react
-Config for Typescript, ESLint, Prettier used in React projects
+Config for Typescript, ESLint, Prettier used in React projects.
